@@ -25,11 +25,11 @@ const def = {
     "part-easy.md",
     "chap-info-about.md",
 	"chap-coc.md",
-	"chap-sponsor.md",
-	"chap-timetable.md",
 
     // 第二部 Vivliostyleについて
     "part-tips.md",
+	"chap-ymzn.md",
+	"chep-kenususugi.md",
 
     // 後書き
     "90-postscript.md",

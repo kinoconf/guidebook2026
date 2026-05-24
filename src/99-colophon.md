@@ -7,7 +7,7 @@ class: colophon
 </div>
 
 <div>
-    <div class="colophon-title">エンジニアがこの先生き残るカンファレス<br>きのこカンファレンス2026<br>公式ガイドブック</div>
+    <div class="colophon-title">エンジニアがこの先生き残るカンファレス<br>きのこるガイド2026</div>
     <table>
         <tr>
             <td colspan="3">2026年6月28日 初版発行</td>

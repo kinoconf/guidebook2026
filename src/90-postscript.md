@@ -7,6 +7,6 @@ class: afterword
 えのきとしめじ
 
 <div class="flush-right">
-実行委員長　ありあき
+先生きのこるガイド　企画　ぽにょ@ponyoxa
 </div>
 
