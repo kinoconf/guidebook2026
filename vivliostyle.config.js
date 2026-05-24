@@ -29,7 +29,13 @@ const def = {
     // 第二部 Vivliostyleについて
     "part-tips.md",
 	"chap-ymzn.md",
-	"chep-kenususugi.md",
+	"chap-kenususugi.md",
+	"chap-takahashi.md",
+	"chap-inagaki.md",
+	"chap-uemu.md",
+	"chap-ditflame.md",
+	"chap-mob.md",
+	"chap-kouno.md",
 
     // 後書き
     "90-postscript.md",
