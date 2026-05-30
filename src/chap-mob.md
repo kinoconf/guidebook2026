@@ -64,7 +64,7 @@ class: chapter
     <div>
         <div>
             <b>モブエンジニア</b>
-			<a href="https://x.com/mob-engineer ">@mob-engineer </a>
+			<a href="https://x.com/mob-engineer">@mob-engineer</a>
         </div>
     </div>
 </div>

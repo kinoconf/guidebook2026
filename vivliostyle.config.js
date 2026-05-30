@@ -36,6 +36,10 @@ const def = {
 	"chap-ditflame.md",
 	"chap-mob.md",
 	"chap-kouno.md",
+	"chap-syossan.md",
+	"chap-koitake.md",
+	"chap-chromedesigning.md",
+	"chap-shimitaka.md",
 
     // 後書き
     "90-postscript.md",
