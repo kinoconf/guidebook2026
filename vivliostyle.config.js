@@ -40,6 +40,9 @@ const def = {
 	"chap-koitake.md",
 	"chap-chromedesigning.md",
 	"chap-shimitaka.md",
+	"chap-kohe.md",
+	"chap-mae616.md",
+	"chap-zundamaru.md",
 
     // 後書き
     "90-postscript.md",
