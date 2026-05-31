@@ -89,7 +89,7 @@ zundamaru
     <div>
         <div>
             <b>zundamaru</b>
-			<a href="https://x.com/zuncha318">@@zuncha318</a>
+			<a href="https://x.com/zuncha318">@zuncha318</a>
         </div>
     </div>
 </div>
