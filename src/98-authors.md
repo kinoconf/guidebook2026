@@ -1,6 +1,7 @@
 ---
 class: author
 ---
+
 # この先生きのこるガイド　企画
 
 <div class="author-profile">
@@ -13,8 +14,7 @@ class: author
     </div>
 </div>
 <p style="margin-top: 0.5em; margin-bottom: 2em;">
-主にバックエンドエンジニアをやってます。Joshi.ts という TypeScript の女性コミュニティを最近立ち上げました。
-
+だいたいバックエンドエンジニアをやっていましたが、最近はもっといろいろなことをやるようになってきました。電子工作、バイクが気になっています。自宅サーバーも立てたい。やりたいことだらけで困る日々。
 
 ## きのこカンファレンス2026　スタッフ
 
@@ -55,7 +55,6 @@ class: author
 せっかく参加するならスタッフで！
 新しい刺激をもらいながら、楽しく生きのこるコツを探します。
 
-
 <div class="author-profile">
     <img src="images/chap-staff/nishizawa.jpg">
     <div>
@@ -81,7 +80,6 @@ class: author
 </div>
 <p style="margin-top: 0.5em; margin-bottom: 2em;">
 ペンギン大好きSREです。最近はAIの勉強とかしてます
-
 
 <div class="author-profile">
     <img src="images/chap-staff/piyohiko.jpg">
@@ -169,7 +167,7 @@ class: author
     </div>
 </div>
 <p style="margin-top: 0.5em; margin-bottom: 2em;">
-仕事もプライベートも全力で楽しんで生き残る！	
+仕事もプライベートも全力で楽しんで生き残る！
 
 <div class="author-profile">
     <img src="images/chap-staff/satak.png">
