@@ -50,7 +50,6 @@ class: chapter
 長々と書きましたが、40代以下の我々はきのこカンファレンスを通して、何か一つでも「この先生き残るヒント」を持ち帰りましょう！
 
 #### 自己紹介
-
 <div class="author-profile">
     <img src="images\syossan.png">
     <div>
@@ -61,8 +60,5 @@ class: chapter
     </div>
 </div>
 <p style="margin-top: 0.5em; margin-bottom: 2em;">
-
-
-2019年に株式会社ミクシィ（現 MIXI）に入社。XFLAG STOREアプリのサーバーサイド開発、FanstaでのSREを中心とした遊撃部隊活動などを経て、現在はスポーツ系サービスの開発を中心に活動。
-
-コミュニティ活動としては、SRE Kaigi 主催者、ゆるSRE勉強会 共同運営、SRE Magazine編集長、クラウドネイティブ会議 共同主催、一般社団法人SREコネクト 代表理事など。
+2019年に株式会社ミクシィ（現 MIXI）に入社。XFLAG STOREアプリのサーバーサイド開発、FanstaでのSREを中心とした遊撃部隊活動などを経て、現在はスポーツ系サービスの開発を中心に活動。<br>
+　コミュニティ活動としては、SRE Kaigi 主催者、ゆるSRE勉強会 共同運営、SRE Magazine編集長、クラウドネイティブ会議 共同主催、一般社団法人SREコネクト 代表理事など。

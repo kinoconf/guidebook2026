@@ -21,13 +21,13 @@ const def = {
     // 目次
     { rel: "contents" },
 
-    // 第一部 開催概要
-    "part-easy.md",
-    "chap-info-about.md",
-	"chap-coc.md",
+    // // 第一部 開催概要
+    // "part-easy.md",
+
+	// "chap-coc.md",
 
     // 第二部 Vivliostyleについて
-    "part-tips.md",
+    // "part-tips.md",
 	"chap-ymzn.md",
 	"chap-kenususugi.md",
 	"chap-takahashi.md",
@@ -47,8 +47,9 @@ const def = {
 	"chap-oyakata.md",
 	"chap-jun_mh4g.md",
 	"chap-yujittttttt.md",
+    "chap-info-about.md",
 
-    // 後書き
+	// 後書き
     "90-postscript.md",
     "98-authors.md",
     "99-colophon.md",

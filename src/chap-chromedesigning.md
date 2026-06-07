@@ -3,7 +3,7 @@
 class: chapter
 ---
 
-# この先生きのこるための「デザイン」/chromedesigning
+# この先生きのこるための「デザイン」
 
 <div class="flush-right">
 くろむ@やさしいデザイン塾
