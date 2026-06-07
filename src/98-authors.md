@@ -67,8 +67,12 @@ class: author
 <p style="margin-top: 0.5em; margin-bottom: 2em;">
 田舎での生きのこりを模索中。普段はReactとRailsを使っています。
 
+<br>
+
+<br>
+
 <div class="author-profile">
-    <img src="images/chap-staff/Kaoru.jpg">
+    <img src="images/chap-staff/kaoru.jpg">
     <div>
         <div>
             <b>Kaoru</b>
@@ -222,11 +226,6 @@ PHPerです。生きのこりたいです。
 <p style="margin-top: 0.5em; margin-bottom: 2em;">
 AI活用中。なお肝臓は単一障害点です
 
-<br>
-
-<br>
-
-<br>
 
 <div class="author-profile">
     <img src="images/chap-staff/terauchi.jpg">
