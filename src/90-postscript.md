@@ -19,5 +19,5 @@ class: afterword
 ありがとうございました。ぜひ #きのこ2026 で感想をつぶやいてくださいね。
 
 <div class="flush-right">
-この先生きのこるガイド2026　企画　ぽにょ@ponyoxa
+この先生きのこるガイド2026　企画<br>ぽにょ@ponyoxa
 </div>

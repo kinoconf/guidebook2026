@@ -63,7 +63,7 @@ class: author
     <div>
         <div>
             <b>やし</b>
-			<a href="https://X.com/yashi8484">@yashi8484</a>
+			<a href="https://X.com/yashi848484">@yashi848484</a>
         </div>
     </div>
 </div>
@@ -78,7 +78,7 @@ class: author
     <div>
         <div>
             <b>honchang</b>
-			<a href="https://X.com/honchang_">@honchang</a>
+			<a href="https://X.com/honchang_">@honchang_</a>
         </div>
     </div>
 </div>
@@ -159,7 +159,7 @@ class: author
 <p style="margin-top: 0.5em; margin-bottom: 2em;">
 
 <div class="author-profile">
-    <img src="images/chap-staff/nishihara.png">
+    <img src="images/chap-staff/nishihara.jpg">
     <div>
         <div>
             <b>nishihara</b>
@@ -192,7 +192,7 @@ class: author
     <div>
         <div>
             <b>山田 雄一（ふーれむ）</b>
-			<a href="https://X.com/ditflame">@@ditflame</a>
+			<a href="https://X.com/ditflame">@ditflame</a>
         </div>
     </div>
 </div>
@@ -243,10 +243,6 @@ class: author
 <p style="margin-top: 0.5em; margin-bottom: 2em;">
 田舎での生きのこりを模索中。普段はReactとRailsを使っています。
 <p style="margin-top: 0.5em; margin-bottom: 2em;">
-
-<br>
-
-<br>
 
 <div class="author-profile">
     <img src="images/chap-staff/kaoru.jpg">
