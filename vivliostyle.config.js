@@ -27,7 +27,7 @@ const def = {
 	// "chap-coc.md",
 
     // 第二部 Vivliostyleについて
-    "part-tips.md",
+    // "part-tips.md",
 	"chap-ymzn.md",
 	"chap-kenususugi.md",
 	"chap-takahashi.md",
